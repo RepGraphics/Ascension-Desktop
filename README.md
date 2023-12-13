@@ -12,7 +12,6 @@ Official Application made by Project Era for ARK:SE and ARK:SA
 - Settings Menu on all Pages
 - Floating/Accesible Refresh & Exit buttons
 - System Tray menu
-- Custom Crosshair Overlays
 - Server Population Overlays
 - Dododex Website Integration
 - Entirely Offline (Except for External Content)
